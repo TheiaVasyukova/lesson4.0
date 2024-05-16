@@ -1,7 +1,7 @@
 input = input("Введите радиус круга: ")
 
 def calculate_circle_area(radius):
-    area = math.pi * radius**2
+    площадь = math.pi * radius**2
     return area
 
 radius = float(input("Введите радиус круга: "))
