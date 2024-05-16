@@ -1,4 +1,4 @@
-import math
+input = input("Введите радиус круга: ")
 
 def calculate_circle_area(radius):
     area = math.pi * radius**2
